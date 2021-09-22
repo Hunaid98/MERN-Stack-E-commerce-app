@@ -1,0 +1,28 @@
+
+.form-control{
+    width: 30rem;
+}
+
+.shopping-cart{
+    cursor: pointer;
+}
+
+.navbar-brand{
+    margin-left: 12%;
+}
+
+.category{
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.category img{
+    width: 70px;
+}
+
+.cart{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
